@@ -1,0 +1,4 @@
+# Filter by dispatches range, GPU index and kernel names
+<metric
+  name="SQ_INSTS_VALU,SQ_INSTS_SALU,SQ_INSTS_SMEM,SQ_INSTS_VMEM_RD,SQ_INSTS_VMEM_WR,SQ_INSTS_FLAT,SQ_INSTS_FLAT_LDS_ONLY,SQ_INSTS_LDS,SQ_INSTS_GDS"
+></metric>

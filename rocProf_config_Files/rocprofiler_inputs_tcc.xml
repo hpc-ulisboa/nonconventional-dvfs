@@ -1,0 +1,4 @@
+# Filter by dispatches range, GPU index and kernel names
+<metric
+  name="TCC_HIT_sum,TCC_MISS_sum,TCC_WRREQ_STALL_max"
+></metric>

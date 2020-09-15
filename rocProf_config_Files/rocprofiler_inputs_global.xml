@@ -1,0 +1,5 @@
+# Filter by dispatches range, GPU index and kernel names
+# List of metrics
+<metric
+  name="GRBM_COUNT,GRBM_GUI_ACTIVE,SQ_WAVES"
+></metric>

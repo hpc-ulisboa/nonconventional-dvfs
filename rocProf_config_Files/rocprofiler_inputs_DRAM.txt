@@ -1,0 +1,11 @@
+# Perf counters group 1
+pmc : FETCH_SIZE WRITE_SIZE MemUnitStalled 
+pmc : TA_FLAT_READ_WAVEFRONTS_sum TA_FLAT_WRITE_WAVEFRONTS_sum 
+# Perf counters group 2
+pmc :  L2CacheHit VALUInsts SALUInsts TCC_HIT_sum TCC_MISS_sum
+# Perf counters group 3
+pmc : MemUnitBusy LDSBankConflict ALUStalledByLDS     
+# Perf counters group 4
+pmc : GPUBusy GRBM_GUI_ACTIVE GRBM_COUNT
+# Filter by dispatches range, GPU index and kernel names
+# kernel: benchmark

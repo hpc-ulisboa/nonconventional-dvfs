@@ -1,0 +1,5 @@
+# Filter by dispatches range, GPU index and kernel names
+# List of metrics
+<metric
+  name="SQ_ACTIVE_INST_VALU,SQ_INST_CYCLES_SALU,SQ_WAIT_INST_LDS,SQ_THREAD_CYCLES_VALU,SQ_LDS_BANK_CONFLICT,TA_BUSY_avr"
+></metric>
